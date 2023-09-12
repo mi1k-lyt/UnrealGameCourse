@@ -1,0 +1,25 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{F5EC05C1-4834-70EC-B5A4-06BF27F5BFAB}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TencentGame",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	],
+	"TargetPlatforms": [
+		"Android"
+	]
+}
