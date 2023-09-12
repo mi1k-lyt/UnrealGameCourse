@@ -1,0 +1,10 @@
+.vs
+Android_out/
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Platforms/
+Saved/
+*.vsconfig
+*.sln
